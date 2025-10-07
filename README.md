@@ -21,41 +21,29 @@ This repository is perfect for anyone who wants to **learn CustomTkinter from sc
 ```bash
 git clone https://github.com/yourusername/CustomTkinter.git
 ```
-2. Create a virtual environment (optional but recommended):
+2. Install Dependencies:
 ```bash
-python -m venv venv
+pip install customtkinter pillow
 ```
-3. Activate the virtual enviornment
-Windows:
-```bash
-venv\Scripts\activate
-Or
-venv\Scripts\activate.bat
-```
-Linux/Mac:
-```bash
-source venv/bin/activate
-```
-4. Install Dependencies
-```bash
-pip install custontkinter pillow
-```
-🌟 Features to Explore
+## 🌟 Features to Explore
 
-CTkLabel, CTkEntry, CTkButton
+- CTkLabel, CTkEntry, CTkButton
+- CTkOptionMenu, CTkSlider, CTkSwitch
+- CTkImage integration for icons and profile pictures
+- Dark/Light mode switching
+- Responsive layouts using grid and pack
+- Interactive GUIs with form validation and button callbacks
 
-CTkOptionMenu, CTkSlider, CTkSwitch
+---
 
-CTkImage integration for icons and profile pictures
+## 📝 Note
 
-Dark/Light mode switching
+At the end of this repository, we will try to create fun projects like a calculator and other small applications to build both your and my Python GUI skills.
 
-Responsive layouts using grid and pack
+---
 
-Interactive GUIs with form validation and button callbacks
+## 🤝 Author
 
-📝NOTE:
-In the end of the Repo we will try to make a calculator and some fun Projects Thats will build your and my skills.
-🤝 Author
+Made by **Chitransh-AFK** with ❤️ to learn UI/UX Design in Python.
 
-Made by Chitransh-AFK with ❤️ to learn networking in Python.
+
