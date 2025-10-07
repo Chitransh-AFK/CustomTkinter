@@ -18,4 +18,5 @@ A Python GUI application built with **CustomTkinter** that allows users to enter
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/Profile-Page-App.git
+git clone https://github.com/Chitransh-AFK/Profile_Page
+
