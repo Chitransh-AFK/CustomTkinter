@@ -18,6 +18,6 @@ A simple Python application built with **CustomTkinter** that allows users to en
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/Greeting-App.git
+git clone https://github.com/Chitransh-AFK/Greeting_app.git
 
 ---
