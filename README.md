@@ -26,13 +26,13 @@ git clone https://github.com/yourusername/CustomTkinter.git
 python -m venv venv
 ```
 3. Activate the virtual enviornment
-   Windows:
+Windows:
 ```bash
 venv\Scripts\activate
 Or
 venv\Scripts\activate.bat
 ```
-  Linux/Mac:
+Linux/Mac:
 ```bash
 source venv/bin/activate
 ```
