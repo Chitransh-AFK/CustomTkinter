@@ -19,7 +19,7 @@ This repository is perfect for anyone who wants to **learn CustomTkinter from sc
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/CustomTkinter.git
+git clone https://github.com/Chitransh-AFK/CustomTkinter
 ```
 2. Install Dependencies:
 ```bash
